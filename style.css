@@ -1,0 +1,237 @@
+*{
+    margin: 0px;
+}
+header{
+    background-image: url(../assignment-portfolio/images/banner/banner3.png);
+    height: 810px;
+    
+}
+.head-text{
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    color: #FFFFFF;
+    
+
+}
+.n-text{
+    font-weight: 300;
+    font-size: 16px;
+    text-align: end ;
+    color: #FFFFFF;
+}
+.btn-primary {
+    height: 44px;
+    border-radius: 5px;
+    background: #f6f4f3f7;
+    color: #2121a7;
+    font-size: 12px;
+    font-weight: 700;
+    border: 0;
+    padding: 10px 35px;
+    margin-left: 970px;
+    margin-top: 30px;
+
+    
+}
+.banner{
+    background:url("banner3.png") ;
+    align-items: center;
+    padding: 200px 200px ;
+    font-family: 'Work Sans', sans-serif;
+    
+}
+.person{
+    width: 100%;
+    padding: 100px 0px;
+}
+.main img{
+    height: auto;
+    width:  569px;
+    
+    
+    
+}
+.baby{
+    width: 550px;
+    margin-left: 100px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.s-text{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+
+}
+.per-text{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+/*  My plans */
+.title{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #151414;
+    padding-top: 50px;
+}
+.sec-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.skill{
+    margin-left: 60px;
+}
+.skills-title{
+    
+    
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #151414;
+    margin-right: 20px;
+}
+.skill-dsecription{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    margin-top: 20px;
+}
+.skill img{
+    margin-left: 30px;
+}
+/* awlays keep a positive part */
+.about{
+    margin-top: 135px;
+}
+.color{
+    background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(./images/watch.png);
+    
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    margin-left: 230px;
+    padding-left: 50px;
+    border-radius: 8px;
+    
+   
+   
+    
+}
+.vs{
+    padding-top: 59px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #FFFFFF;
+}
+.bt-con{
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+    color: #005FAC;
+    border-radius: 5px;
+    border: 0;
+    width: 160px;
+    height: 64px;
+   left: 294px;
+   top: 2398.96px;
+   background: #FFFFFF;
+   margin-top: 20px;
+}
+/* our sevices */
+.service{
+    background-color: #005FAC;
+    height: 600px;
+}
+
+.s-index{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #151414;
+    padding-top: 50px;
+}
+.ser-text{
+    text-align: center;
+
+}
+.ser-btn{
+    font-weight: 100;
+    font-size: 15px;
+
+    color: #FFFFFF;
+    width: 170.11px;
+    height: 64px;
+    background-color: #2121a7;
+    border-radius: 8px;
+
+}
+
+
+/* footer part */
+.all{
+    display: flex;
+    background-color: black;
+    height: 577px;
+    padding-top: 130px;
+   
+    justify-content: space-around;
+}
+/* Future */
+.fu-text{
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+/* subscribe */
+.sub-text{
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+}
+form input{
+    width: 325px;
+    height: 54px;
+    border-radius: 8px;
+    border-color: #F8F8F8;
+    background-color: #151414;
+    margin-bottom: 20px;
+   
+    
+    
+}
+form button{
+    font-weight: 100;
+    font-size: 15px;
+
+    color: #FFFFFF;
+    width: 170.11px;
+    height: 64px;
+    background-color: #2121a7;
+    border-radius: 8px;
+}
+.fu-sub-text{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+
+
